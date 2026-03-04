@@ -8,9 +8,11 @@ It is a 2 layer board:
 
 Top layer:
 
-![Uploading Screenshot 2026-01-11 at 9.38.37 PM.png…]()
+<img width="502" height="430" alt="image" src="https://github.com/user-attachments/assets/720fd8af-a352-4c1e-a805-8f6e827bd028" />
 
 Bottom Layer:
+
+<img width="509" height="433" alt="image" src="https://github.com/user-attachments/assets/72ee7c99-cbb9-46dc-b0b5-1a59a9bbba1d" />
 
 Bill of materials, its pretty messy, so open the file is you want to see it cleaner:
 
