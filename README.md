@@ -8,6 +8,8 @@ It is a 2 layer board:
 
 Top layer:
 
+![Uploading Screenshot 2026-01-11 at 9.38.37 PM.png…]()
+
 Bottom Layer:
 
 Bill of materials, its pretty messy, so open the file is you want to see it cleaner:
