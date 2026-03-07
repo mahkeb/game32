@@ -4,6 +4,8 @@ Hey, this is the game32 that i made to be able to practice programming in c++ an
 
 This board is powered with a esp32 s3, and has a tft display driven with a st7789. 
 
+This board is designed to be user friendly, can be powered by the header pins labled 3v3 or the usb c port, programming is done through the same usb c port, and the zif connector is built for a tft display running 16 bit 8080 intel parellel interface and a st7789 driver.
+
 It is a 2 layer board: 
 
 Top layer:
