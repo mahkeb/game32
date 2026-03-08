@@ -2,7 +2,9 @@
 
 Hey, this is the game32 that i made to be able to practice programming in c++ and to have a versitile device to test my code on. This is the first iteration, eventually it will be battery powered and have a better layout. 
 
-This board is powered with a esp32 s3, and has a tft display driven with a st7789. 
+<img width="848" height="635" alt="Screenshot 2026-03-08 at 11 32 07 AM" src="https://github.com/user-attachments/assets/02cbee90-201f-492c-86d5-ee54b84638a1" />
+
+This board is powered with a esp32 s3, and has a tft display driven with a st7789. I am currently working on incorporating RFID, NFC, and a cc1101 into this board, and i have designed the battery module it just needs testing. 
 
 This board is designed to be user friendly, can be powered by the header pins labled 3v3 or the usb c port, programming is done through the same usb c port, and the zif connector is built for a tft display running 16 bit 8080 intel parellel interface and a st7789 driver.
 
